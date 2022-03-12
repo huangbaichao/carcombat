@@ -1,0 +1,6 @@
+#	默认配置		
+#	配置项	策划备注	配置值
+	Game.Id		Car Combat
+	Scene.Menu	菜单场景	1
+	Scene.Combine	拼装场景	2
+	Scene.Battle	战斗场景	3

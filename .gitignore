@@ -1,0 +1,6 @@
+.DS_Store
+.vsconfig
+.vs/
+Library/
+obj/
+Logs/
